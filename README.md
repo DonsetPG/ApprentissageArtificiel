@@ -5,6 +5,8 @@ Cours Mines Paristech
 
 ## Jupyter Notebook : 
 
+(NB : les .ipynb sont aussi lisibles sur le git, mais non modifiables)
+
 Le mieux est d'aller sur [Jupyer Notebook](http://jupyter.org) 
 
 Sinon : 
