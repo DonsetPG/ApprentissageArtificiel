@@ -1,7 +1,9 @@
 # ApprentissageArtificiel
 Cours Mines Paristech
 
-## Installations et Usages : 
+# Installations et Usages : 
+
+## Jupyter Notebook : 
 
 Le mieux est d'aller sur [Jupyer Notebook](http://jupyter.org) 
 
@@ -24,4 +26,15 @@ Pour l'utiliser, se rendre dans vos dossiers correspondants dans un terminale, p
 ```
 jupyter notebook
 ```
+
+## Le reste : 
+
+On aura besoin de : SciKit-learn, Tensorflow, Keras et R. 
+
+Pour les installations : 
+
+- [SciKit-learn](https://scikit-learn.org/stable/install.html)
+- [Tensorflow](https://www.tensorflow.org/install/)
+- [Keras](https://keras.io)
+- [R](https://www.r-project.org)
 
