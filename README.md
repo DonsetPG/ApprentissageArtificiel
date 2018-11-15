@@ -1,6 +1,17 @@
 # ApprentissageArtificiel
 Cours Mines Paristech
 
+# Rendu de projet : 
+
+Le projet se trouve dans le folder "PROJET".
+
+Il contient : 
+
+- [un jupyer notebook](https://github.com/DonsetPG/ApprentissageArtificiel/blob/master/PROJET/projet-transferlearning-paulGarnier-arthurVerrez.ipynb), qui contient l'intégralité du projet et du code.
+- différentes images utilisées dans le jupyter notebook
+- un dossier [image](https://github.com/DonsetPG/ApprentissageArtificiel/tree/master/PROJET/img), avec des exemples du dataset
+- un dossier [data](https://github.com/DonsetPG/ApprentissageArtificiel/tree/master/PROJET/data) avec le dataset, dans training et validation.
+
 # Installations et Usages : 
 
 ## Jupyter Notebook : 
